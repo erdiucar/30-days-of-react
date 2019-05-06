@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.13ddf5fb.chunk.css",
-    "main.js": "/my-app/static/js/main.f1a2cc6e.chunk.js",
-    "main.js.map": "/my-app/static/js/main.f1a2cc6e.chunk.js.map",
-    "runtime~main.js": "/my-app/static/js/runtime~main.6019dd84.js",
-    "runtime~main.js.map": "/my-app/static/js/runtime~main.6019dd84.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/my-app/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/my-app/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.fc62a2e569cda68dacdb500a87de3537.js": "/my-app/precache-manifest.fc62a2e569cda68dacdb500a87de3537.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.13ddf5fb.chunk.css.map": "/my-app/static/css/main.13ddf5fb.chunk.css.map"
+    "main.css": "/30-days-of-react/static/css/main.13ddf5fb.chunk.css",
+    "main.js": "/30-days-of-react/static/js/main.b3a4f694.chunk.js",
+    "main.js.map": "/30-days-of-react/static/js/main.b3a4f694.chunk.js.map",
+    "runtime~main.js": "/30-days-of-react/static/js/runtime~main.06d4beff.js",
+    "runtime~main.js.map": "/30-days-of-react/static/js/runtime~main.06d4beff.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/30-days-of-react/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/30-days-of-react/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/30-days-of-react/index.html",
+    "precache-manifest.4eab2b757ca5468bf2d1d0501694e2db.js": "/30-days-of-react/precache-manifest.4eab2b757ca5468bf2d1d0501694e2db.js",
+    "service-worker.js": "/30-days-of-react/service-worker.js",
+    "static/css/main.13ddf5fb.chunk.css.map": "/30-days-of-react/static/css/main.13ddf5fb.chunk.css.map"
   }
 }
