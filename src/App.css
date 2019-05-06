@@ -1,5 +1,6 @@
 .App {
   padding: 3rem 10rem;
+  min-width: 20rem;
 }
 
 .App-header {
